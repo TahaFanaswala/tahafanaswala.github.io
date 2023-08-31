@@ -1,0 +1,3 @@
+theme: jekyll-theme-slate
+title: Navigating FTW Trading
+description: A how-to guide on getting started on FTW Trading
