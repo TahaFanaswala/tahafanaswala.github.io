@@ -12,4 +12,8 @@ To file a new transaction, you will need to
 3. Which team you want to transact
 4. How many shares
 
-You can also view how many available credits you have, and how many shares of the selected team you can sell. Note that you can only successfully file a transaction if the blue button at the bottom says "Valid". If you don't have enough credits to complete a transaction or try to sell more shares of a team than you own, the button will say "Invalid", and will not let you file the transaction. 
+After filling out the form, you can then see how many credits you will earn/lose after the transaction is completed. You can also view how many available credits you currently have, and how many shares of the selected team you can sell. Note that you can only successfully file a transaction if the blue button at the bottom says "Valid". If you don't have enough credits to complete a transaction or try to sell more shares of a team than you own, the button will say "Invalid", and will not let you file the transaction. 
+
+Here is an example of a completed, valid transaction
+
+<img width=452 alt="image" src="https://github.com/TahaFanaswala/tahafanaswala.github.io/blob/main/Filled%20out%20transaction.png">
