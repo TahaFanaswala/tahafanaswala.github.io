@@ -40,4 +40,5 @@ You can also see how your portfolio stacks up against other traders on FTW Tradi
 
 
 That's a wrap on this Get-Started guide for FTW Trading. Happy trading everyone!
- - Taha
+
+Taha
