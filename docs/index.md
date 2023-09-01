@@ -39,4 +39,4 @@ You can also see how your portfolio stacks up against other traders on FTW Tradi
 <img width="918" alt="Leaderboard page" src="https://github.com/TahaFanaswala/tahafanaswala.github.io/assets/14844907/45697ab7-90e1-4e31-8600-35e29ed6c745">
 
 
-
+That's a wrap on this Get-Started guide for FTW Trading. Happy trading everyone!
