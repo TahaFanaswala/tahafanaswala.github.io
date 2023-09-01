@@ -30,4 +30,6 @@ Now that you're starting to build up your portfolio, you should also explore the
 
 <img width="919" alt="Market page" src="https://github.com/TahaFanaswala/tahafanaswala.github.io/assets/14844907/04c9981f-6acd-42e3-8190-76e209e5c786">
 
+You can also see how your portfolio stacks up against other traders on FTW Trading by going to the **Leaderboard** page.
+
 
