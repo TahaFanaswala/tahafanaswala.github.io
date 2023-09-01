@@ -24,5 +24,10 @@ Once you've hit submit, and the transaction processes, you will be able to see y
 
 You've now bought your first shares on FTW Trading. Your **Ownership** page should now look like this:
 
-<img width="917" alt="Ownership page" src="https://github.com/TahaFanaswala/tahafanaswala.github.io/assets/14844907/2fdf9687-38d2-4a45-a1dd-a61fa692cb74">
+![Ownership page](https://github.com/TahaFanaswala/tahafanaswala.github.io/assets/14844907/2fdf9687-38d2-4a45-a1dd-a61fa692cb74)
+
+Now that you're starting to build up your portfolio, you should also explore the rest of FTW Trading. By clicking on the **Teams** page, you can see what the current price and win payouts are for all NFL teams. 
+
+<img width="919" alt="Market page" src="https://github.com/TahaFanaswala/tahafanaswala.github.io/assets/14844907/04c9981f-6acd-42e3-8190-76e209e5c786">
+
 
