@@ -19,3 +19,7 @@ Here is an example of a completed, valid transaction:
 ![Filled out transaction](https://github.com/TahaFanaswala/tahafanaswala.github.io/assets/14844907/3bd358e0-6e2f-46d5-aa95-07e944d1fbc6)
 
 Once you've hit submit, and the transaction processes, you will be able to see your first transaction in the transaction history page. For our example, you should now see this:
+
+![Transaction history](https://github.com/TahaFanaswala/tahafanaswala.github.io/assets/14844907/a3f02799-5e39-4d8d-941e-92cbcc06af7a)
+
+You've now bought your first shares on FTW Trading. 
