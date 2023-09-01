@@ -1,6 +1,11 @@
 # Getting started on FTW Trading
 
-While the images in this guide are from the PC version, these steps apply to the mobile application as well. Here is the [link](https://www.appsheet.com/newshortcut/c61fdf3e-c824-4909-9dbc-19b5f1719d9b) to download the mobile version of the app.
+While the images in this guide are from the PC version, these steps apply to the mobile application as well. 
+
+## Download
+
+You can download the mobile version of the app using this [link](https://www.appsheet.com/start/c61fdf3e-c824-4909-9dbc-19b5f1719d9b).
+
 ## How to buy/sell shares
 After registering your account, you'll land on the **Ownership** page. This is where you can see what shares you own. It's currently blank, but we can change that by buying some shares. Click on the **Transactions** button at the bottom, to the left of the **Ownership** button.
 
